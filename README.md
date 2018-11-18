@@ -2,6 +2,8 @@
 mongoose主要知识点的总结
 
 
+     ![mongoose](https://raw.github.com/giscyw/mongoose-introduction/mongoose知识体系.png)
+      
 
 
 
