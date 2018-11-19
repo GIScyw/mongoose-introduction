@@ -1,5 +1,6 @@
 # mongoose-introduction
 mongoose主要知识点的总结
+
 文章的结构如下
 
  ![nj](https://github.com/GIScyw/mongoose-introduction/blob/master/1.png)
