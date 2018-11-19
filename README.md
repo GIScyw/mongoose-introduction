@@ -1,16 +1,13 @@
 # mongoose-introduction
 mongoose主要知识点的总结
+文章的结构如下
 
+ ![nj](https://github.com/GIScyw/mongoose-introduction/blob/master/1.png)
 
-     ![mongoose](https://github.com/GIScyw/mongoose-introduction/blob/master/1.png)
-
-
-
-
-## Mongoose 述
 
 Mongoose里面最重要的三个概念是Schemas，models和Documents，另外还有验证，中间件对前面三个至关重要，这里像填充Populate和鉴别器Discriminators的相关知识就不介绍了，平时基本上不太能用到，具体的可以查阅官方文档。
 
+![nj](https://github.com/GIScyw/mongoose-introduction/blob/master/mongoose知识体系.png)
 
 Mongoose的一切始于Schema，Schema定义collection里的文档的构成，models是从Schema编译来的构造函数，documents是models的实例，它可以从数据库保存和读取数据
 
